@@ -1,12 +1,15 @@
 # 需求
 
-* 使用 pangu.js 給檔案內的中英文加入空白。
-
-* 打包成 npm package，名稱自選，比如 pangu
+* 使用 pangu.js 給檔案內的中英文加入空白
 
 * 安裝
 
-      npm install -g pangu
+```
+$ cd /usr/local/lib/node_modules/
+$ git clone https://github.com/wangriyu/pangu.git
+$ cd pangu
+$ cp ./bin/pangu ../../../bin
+```
 
 * 用法
 
