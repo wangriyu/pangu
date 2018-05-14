@@ -5,10 +5,10 @@
 * 安裝
 
 ```
-$ cd /usr/local/lib/node_modules/
+$ cd ~
 $ git clone https://github.com/wangriyu/pangu.git
 $ cd pangu
-$ cp ./bin/pangu ../../../bin
+$ cp ./bin/pangu /usr/local/bin
 ```
 
 * 用法
